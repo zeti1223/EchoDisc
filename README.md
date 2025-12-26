@@ -27,8 +27,8 @@ Designed with `customtkinter` for a modern GUI, `pygame` for audio playback, and
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/zeti1223/vinyl-music-player.git
-   cd vinyl-music-player
+   git clone https://github.com/zeti1223/EchoDisc.git
+   cd EchoDisc
 Install required libraries:
 
 bash
