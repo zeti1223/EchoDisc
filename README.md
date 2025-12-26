@@ -27,7 +27,7 @@ Designed with `customtkinter` for a modern GUI, `pygame` for audio playback, and
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/vinyl-music-player.git
+   git clone https://github.com/zeti1223/vinyl-music-player.git
    cd vinyl-music-player
 Install required libraries:
 
